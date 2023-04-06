@@ -1,5 +1,7 @@
 # FPS-Unity
 
+## Only .exe file in release, code and assets are in plastic SCM
+
 ### Notice: demo video in release
 
 ### Video bilibili link:
